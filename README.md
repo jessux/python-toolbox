@@ -1,2 +1,3 @@
 # python-toolbox
-boite à outils
+
+Ce repo est un espace de stockage pour tous les petits scripts utiles
